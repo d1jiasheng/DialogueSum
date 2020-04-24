@@ -1,2 +1,0 @@
-model_checkpoint_path: "summary_only_size_256_epochs_1.ckpt"
-all_model_checkpoint_paths: "summary_only_size_256_epochs_1.ckpt"
